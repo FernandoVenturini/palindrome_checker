@@ -1,11 +1,11 @@
 Palindrome Checker
 A palindrome is a word, phrase, number, or any sequence of characters that remains the same when read backwards. Classic examples include:
 
-"macaw"
+"madam"
 
-"egg"
+"racecar"
 
-"Love the poem" (ignoring spaces and capitalization)
+"level" 
 
 This project is a Palindrome Checker developed with HTML, CSS, and JavaScript, allowing the user to type a word or phrase and find out if it is a palindrome.
 
@@ -30,13 +30,13 @@ The system will automatically check if it is a palindrome.
 The result will be displayed below, with indicative colors.
 
 � Example
-Input: "Arara" → Output: ✅ "Arara" is a palindrome!
+Input: "hannah" → Output: ✅ "hannah" is a palindrome!
 
 Input: "JavaScript" → Output: ❌ "JavaScript" is not a palindrome.
 
 🌐 Access the Project
-You can test the checker online here (add the GitHub Pages link or deploy when available).
+You can test the checker online in the link below.
+LINK: https://palindromecheke.netlify.app/
 
 Made with ❤️ by Fernando Venturini (<LVF_Code/>).
 
-LINK: 
