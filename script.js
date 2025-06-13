@@ -5,6 +5,7 @@ const result = document.querySelector("#result");
 function checkPalindrome() {
     const word = wordInput.value;
     const invertedWord = word.split("").reverse().join("");
+    // Check if the word is a palindrome:
     if (word.toLowerCase() === invertedWord.toLowerCase()) {
         result.textContent = `The word "${word}" is palindrome!`;
     } else {
